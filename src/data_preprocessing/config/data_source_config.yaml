@@ -1,0 +1,3 @@
+data:
+  description: "Electric Power Data (W)"
+  data_source_path: "/mnt/c/DSRL/HEADpy/data_preprocessing/energy_data.csv" # provide the absolute path to the file containing the data
